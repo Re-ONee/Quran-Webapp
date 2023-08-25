@@ -1,2 +1,2 @@
 # Quran-Webapp
-![image](https://github.com/Re-ONee/Quran-Webapp/assets/65849292/516ae7f1-70a0-4c93-b862-016208f5cf26)
+![image](https://github.com/Re-ONee/Quran-Webapp/assets/65849292/0b2d49cd-5115-42b9-9fe5-034bb8f907df)
